@@ -10,7 +10,7 @@ Ship a free offline note that shows where six household things were put, in type
 2. Build Left It Here in Expo: six things, a written place, and a Look screen.
 3. Run the full simulator regression on the Release binary for build 1.
 4. Take three native screenshots, then upload that binary and submit it.
-5. Regression is all pass for build 1. Next: archive, create the App Store record, upload, and submit.
+5. Regression is all pass for build 1. The binary is uploaded and the version is Waiting for Review.
 
 ## Why this app
 

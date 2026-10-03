@@ -6,3 +6,4 @@
 - Chose Left It Here, bundle id `com.peakermap.leftithere`, Expo SDK 57, because the screen is labels and on-device notes.
 - Privacy gist `9f6ede6b4c15d610d1fd23f5257cb633`. Support gist `dd1ac9414a2772d990698f008c375274`. Save place sits above the place field.
 - Release simulator build finished. Regression 59 pass on that binary. Three 1320×2868 screenshots saved.
+- App Store id `6818753165`. Version `3a78e1f4-9abf-4064-933a-347cd09c7a07`. Build `212b64df-1666-4dd1-a8db-5441bd180a54`. Submission `866bad1f-7816-489b-9937-6eccbeb0c14a` is Waiting for Review.
